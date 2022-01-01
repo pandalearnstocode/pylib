@@ -37,7 +37,6 @@ make poetry-download
 make install
 make pre-commit-install
 ```
-
 4. Run the codestyle:
 
 ```bash
