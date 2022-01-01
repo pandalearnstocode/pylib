@@ -1,6 +1,5 @@
 # pylib
 
-
 <div align="center">
 
 [![Build status](https://github.com/pandalearnstocode/pylib/workflows/build/badge.svg?branch=master&event=push)](https://github.com/pandalearnstocode/pylib/actions?query=workflow%3Abuild)
@@ -18,8 +17,6 @@ Awesome `pylib` is a Python cli/package created with https://github.com/TezRomac
 
 </div>
 
-
-
 ## Very first steps
 
 ### Initialize your code
@@ -34,20 +31,18 @@ cd pylib && git init
 ```bash
 make poetry-download
 ```
-
 3. Initialize poetry and install `pre-commit` hooks:
 
 ```bash
 make install
 make pre-commit-install
 ```
-
 4. Run the codestyle:
+
 
 ```bash
 make codestyle
 ```
-
 5. Upload initial code to GitHub:
 
 ```bash
