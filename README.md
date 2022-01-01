@@ -43,7 +43,6 @@ make pre-commit-install
 ```bash
 make codestyle
 ```
-
 5. Upload initial code to GitHub:
 
 ```bash
