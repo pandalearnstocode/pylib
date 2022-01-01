@@ -36,6 +36,7 @@ make poetry-download
 ```
 3. Initialize poetry and install `pre-commit` hooks:
 
+
 ```bash
 make install
 make pre-commit-install
