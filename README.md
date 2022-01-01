@@ -34,20 +34,18 @@ cd pylib && git init
 ```bash
 make poetry-download
 ```
-
 3. Initialize poetry and install `pre-commit` hooks:
 
 ```bash
 make install
 make pre-commit-install
 ```
-
 4. Run the codestyle:
+
 
 ```bash
 make codestyle
 ```
-
 5. Upload initial code to GitHub:
 
 ```bash
